@@ -1,0 +1,15 @@
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\bin\Debug\net6.0\İlkKodum.exe
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\bin\Debug\net6.0\İlkKodum.deps.json
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\bin\Debug\net6.0\İlkKodum.runtimeconfig.json
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\bin\Debug\net6.0\İlkKodum.dll
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\bin\Debug\net6.0\ref\İlkKodum.dll
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\bin\Debug\net6.0\İlkKodum.pdb
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.csproj.AssemblyReference.cache
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.dll
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\ref\İlkKodum.dll
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.pdb
+C:\Users\FURKAN\source\repos\İlkKodum\İlkKodum\obj\Debug\net6.0\İlkKodum.genruntimeconfig.cache
