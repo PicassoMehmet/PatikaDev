@@ -1,0 +1,15 @@
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.exe
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.deps.json
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.runtimeconfig.json
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.dll
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\bin\Debug\net6.0\ref\Operatörler.dll
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\bin\Debug\net6.0\Operatörler.pdb
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.csproj.AssemblyReference.cache
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.dll
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\ref\Operatörler.dll
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.pdb
+C:\Users\FURKAN\source\repos\Operatörler\Operatörler\obj\Debug\net6.0\Operatörler.genruntimeconfig.cache
