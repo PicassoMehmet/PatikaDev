@@ -1,0 +1,15 @@
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.csproj.AssemblyReference.cache
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.AssemblyInfoInputs.cache
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.AssemblyInfo.cs
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\bin\Debug\net6.0\Diziler-2.exe
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\bin\Debug\net6.0\Diziler-2.deps.json
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\bin\Debug\net6.0\Diziler-2.runtimeconfig.json
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\bin\Debug\net6.0\Diziler-2.dll
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\bin\Debug\net6.0\ref\Diziler-2.dll
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\bin\Debug\net6.0\Diziler-2.pdb
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.dll
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\ref\Diziler-2.dll
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.pdb
+C:\Users\FURKAN\source\repos\Diziler-2\Diziler-2\obj\Debug\net6.0\Diziler-2.genruntimeconfig.cache
